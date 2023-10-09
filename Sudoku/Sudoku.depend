@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696723700 source:e:\diploma\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1696852646 source:e:\diploma\sudoku\sudokufunction.c
+	<stdio.h>
+	<stdlib.h>
+
+1696723717 e:\diploma\sudoku\header.h
+
+1696723669 source:e:\diploma\sudoku\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
